@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why droughts may reduce the mortality of heatwaves...
-date: 2022-01-0i7 17:11:00+0100
+date: 2022-01-07 17:11:00+0100
 inline: false
 ---
 
