@@ -7,7 +7,7 @@ subtitle: Hydro-Meteorologist & Climate Scientist @ Ghent University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jessica.jpg
   address: >
     <p>Faculty of Bioscience Engineering</p>
     <p>Coupure Links 653</p>
