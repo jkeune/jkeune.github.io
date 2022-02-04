@@ -1,31 +1,14 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Why droughts may reduce the mortality of heatwaves...
+date: 2022-01-0i7 17:11:00+0100
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+In our new paper in <a href="https://doi.org/10.1126/sciadv.abe6653">Science Advances</a>, we show that soil drought can mitigate deadly heat stress via the reduction of air humidity. Work led by Hendrik Wouters.
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+> Global warming increases the number and severity of deadly heatwaves. Recent heatwaves often coincided with soil droughts that intensify air temperature but lower air humidity. Since lowering air humidity may reduce human heat stress, the net impact of soil desiccation on the morbidity and mortality of heatwaves remains unclear. Combining weather balloon and satellite observations, atmospheric modelling, and meta-analyses of heatwave mortality, we find that soil droughts—despite their warming effect—lead to a mild reduction in heatwave lethality. More specifically, morning dry soils attenuate afternoon heat stress anomaly by ~5%. This occurs because of reduced surface evaporation and increased entrainment of dry air aloft. The benefit appears more pronounced during specific events, such as the Chicago 1995 and Northern U.S. 2006 and 2012 heatwaves. Our findings suggest that irrigated agriculture may intensify lethal heat stress, and question recently proposed heatwave mitigation measures involving surface moistening to increase evaporative cooling.
 
 ***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
