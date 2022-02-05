@@ -3,7 +3,7 @@ layout: page
 title: code_and_data
 permalink: /code_and_data/
 description: A growing collection of published codes and datasets. 
-nav: true
+nav: false
 display_categories: [code, data]
 horizontal: false
 ---
