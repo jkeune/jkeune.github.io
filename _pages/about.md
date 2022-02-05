@@ -9,10 +9,15 @@ profile:
   align: right
   image: JessicaKeune.jpg
   address: >
-    <p>Faculty of Bioscience Engineering</p>
+    <p>Department of Environment</p>
     <p>Coupure Links 653</p>
     <p>9000 Ghent</p>
     <p>Belgium</p>
+
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+---
 
 #### Research Interests
 <ul>
@@ -24,8 +29,3 @@ profile:
     <li>Verification</li>
     <li>Renewable energy</li>
 </ul>
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
----
