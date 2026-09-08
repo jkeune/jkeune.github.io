@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Jessica! I study the terrestrial water cycle with all its quirks. I graduated with a PhD from the University of Bonn in Germany. Currently, I am a postdoctoral fellow affiliated with Ghent University in Belgium. 
+Hi, I'm Jessica! I study the terrestrial water cycle with all its quirks. I graduated with a PhD from the University of Bonn in Germany. Currently, I am a scientist working at the European Centre for Medium-Range Weather Forecasts (ECMWF). 
 <br/><br/>
 
 #### research interests
