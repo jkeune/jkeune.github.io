@@ -14,7 +14,8 @@ nav: false
 
 ***
 ### Experience
-10/21 –                    FWO postdoctoral fellowship, Ghent University, Belgium  
+05/23 –              Scientist, European Centre for Medium-Range Weather Forecasts
+10/21 – 04/23        FWO postdoctoral fellowship, Ghent University, Belgium  
 10/20 – 09/21        BOF postdoctoral fellowship, Ghent University, Belgium  
 09/17 – 09/20        Postdoctoral Researcher, Ghent University, Belgium  
 01/13 – 08/17        Research assistant, University of Bonn, Germany  
@@ -23,6 +24,7 @@ nav: false
 
 ***
 ### Awards
+2025                         Among the 3 finalists for the Harry Otten Prize 2025, European Meteorological Society
 2020                         Editor's Award, Water Resources Research, AGU, USA  
 2019                         Excellence in Reviewing, Geophysical Research Letters, AGU, USA  
 2019                         ABC/J Young Scientist Award (1st prize), Geoverbund ABC/J, Germany  
