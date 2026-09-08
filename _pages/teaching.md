@@ -18,7 +18,7 @@ nav: false
 
 ### Experience
 
-05/23 –         Scientist, European Centre for Medium-Range Weather Forecasts
+05/23 –              Scientist, European Centre for Medium-Range Weather Forecasts
 10/21 – 04/23        FWO postdoctoral fellowship, Ghent University, Belgium  
 10/20 – 09/21        BOF postdoctoral fellowship, Ghent University, Belgium  
 09/17 – 09/20        Postdoctoral Researcher, Ghent University, Belgium  
@@ -30,7 +30,7 @@ nav: false
 
 ### Awards
 
-2025 Among the 3 finalists for the Harry Otten Prize 2025, European Meteorological Society
+2025                         Among the 3 finalists for the Harry Otten Prize 2025, European Meteorological Society
 2020                         Editor's Award, Water Resources Research, AGU, USA  
 2019                         Excellence in Reviewing, Geophysical Research Letters, AGU, USA  
 2019                         ABC/J Young Scientist Award (1st prize), Geoverbund ABC/J, Germany  
@@ -40,8 +40,8 @@ nav: false
 
 ### Personal grants
 
-2021 – 2024           FWO postdoctoral fellowship  
-2020 – 2021           BOF postdoctoral fellowship  
+2021 – 2024                  FWO postdoctoral fellowship  
+2020 – 2021                  BOF postdoctoral fellowship  
 2019                         FWO travel grant for attending the AGU Fall Meeting, San Francisco, USA
 2018                         FWO travel grant for attending the General Assembly of the EGU, Vienna, Austria
 2016                         DAAD travel grant for attending the AGU Fall Meeting, San Francisco, USA
