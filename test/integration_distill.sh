@@ -4,11 +4,28 @@ set -euo pipefail
 tmp_dir="$(mktemp -d)"
 tmp_override="${tmp_dir}/distill-override.yml"
 tmp_site="${tmp_dir}/site"
+distill_post="_posts/2021-05-22-distill.md"
 
 cleanup() {
+  rm -f "${distill_post}"
   rm -rf "${tmp_dir}"
 }
 trap cleanup EXIT
+
+mkdir -p _posts
+cat >"${distill_post}" <<'MARKDOWN'
+---
+layout: distill
+title: distill
+date: 2021-05-22
+giscus_comments: true
+mermaid:
+  enabled: true
+tikzjax: true
+---
+
+Temporary Distill fixture.
+MARKDOWN
 
 cat >"${tmp_override}" <<'YAML'
 giscus:

@@ -8,10 +8,37 @@
 set -euo pipefail
 
 tmp_dir="$(mktemp -d)"
+rtl_post="_posts/2022-10-15-rtl.md"
+marimo_post="_posts/2025-04-28-marimo.md"
+
 cleanup() {
+  rm -f "${rtl_post}" "${marimo_post}"
   rm -rf "${tmp_dir}"
 }
 trap cleanup EXIT
+
+mkdir -p _posts
+cat >"${rtl_post}" <<'MARKDOWN'
+---
+layout: post
+title: RTL fixture
+date: 2022-10-15 10:00:00
+lang: fa
+---
+
+Temporary RTL fixture.
+MARKDOWN
+
+cat >"${marimo_post}" <<'MARKDOWN'
+---
+layout: post
+title: Marimo fixture
+date: 2025-04-28 12:00:00
+marimo: true
+---
+
+Temporary Marimo fixture.
+MARKDOWN
 
 build() {
   local name="$1"
