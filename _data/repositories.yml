@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jkeune
+  - ecmwf-training
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jkeune/ERA5-Drought_data
+  - ecmwf-training/drought-exposure
+  - ecmwf-training/extreme-precipitation-exposure
+  - Moisture-tracking-community/INSPIRE
+  - h-cel/hamster
+  - jkeune/hamster_analysis_gmd
