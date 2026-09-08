@@ -1,0 +1,11 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: jessica.keune@ecmwf.int # your email address
+orcid_id: 0000-0001-6104-2165
+scholar_userid: zHyAh9wAAAAJ&hl # your Google Scholar ID
+github_username: jkeune
+linkedin_username: jessica-keune-a0a4b11ba
+work_url: https://www.ecmwf.int/en/about/who-we-are/staff-profiles/jessica-keune
+# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
