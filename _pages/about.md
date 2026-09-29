@@ -29,7 +29,7 @@ Hi, I'm Jessica! I study the terrestrial water cycle with all its quirks. I grad
 <ul>
     <li>terrestrial water cycle</li>
     <li>earth system modelling</li>
-    <li>climate extremes<\li>
+    <li>climate extremes</li>
     <li>impact forecasting</li>
     <li>human influence on weather & climate</li>
     <li>land and water management</li>
