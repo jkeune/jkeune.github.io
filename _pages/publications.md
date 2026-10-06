@@ -13,14 +13,24 @@ nav: true
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<script src="{{ '/assets/js/publication-filter.js' | relative_url | bust_file_cache }}" type="module"></script>
+<div class="bibsearch-controls">
+<input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="Type to filter">
+<div class="bibsearch-filters" role="group" aria-label="Filter publications">
+{%- for publication_type in site.bib_publication_types %}
+<label>
+<input type="checkbox" class="bibsearch-type-filter" value="{{ publication_type.id }}" checked>
+{{ publication_type.label }}
+</label>{% unless forloop.last %}&nbsp;{% endunless %}
+{%- endfor %}
+</div>
+</div>
 
 <div class="publications">
 
 {%- for y in page.years %}
 
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
