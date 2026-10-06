@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
   }
 </style>
 
-Hi, I'm Jessica! I study the terrestrial water cycle with all its quirks. I graduated with a PhD from the University of Bonn in Germany. Currently, I am a scientist working at the European Centre for Medium-Range Weather Forecasts (ECMWF).
+Hi, I'm Jessica! I study the terrestrial water cycle with all its quirks. I graduated with a PhD from the University of Bonn in Germany, and I've worked across research institutes in Germany and Belgium. Currently, I am a scientist working at the European Centre for Medium-Range Weather Forecasts (ECMWF). 
 <br/><br/>
 
 #### research interests
@@ -29,8 +29,9 @@ Hi, I'm Jessica! I study the terrestrial water cycle with all its quirks. I grad
 <ul>
     <li>terrestrial water cycle</li>
     <li>earth system modelling</li>
+    <li>climate extremes</li>
+    <li>impact forecasting</li>
     <li>human influence on weather & climate</li>
     <li>land and water management</li>
     <li>sustainability</li>
-    <li>extreme events</li>
 </ul>
