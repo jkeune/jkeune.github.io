@@ -9,6 +9,8 @@ nav: true
 
 <!-- _pages/publications.md -->
 
+<p>I have 33 peer-reviewed publications (6 first-authored publications and 27 co-authored publications). </p>
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
