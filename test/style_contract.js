@@ -7,6 +7,27 @@ const read = (relPath) => fs.readFileSync(path.join(root, relPath), "utf8");
 const exists = (relPath) => fs.existsSync(path.join(root, relPath));
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
+const containsOnlyAllowedFiles = (relPath, allowedFiles) => {
+  if (!fs.statSync(path.join(root, relPath)).isDirectory()) {
+    return false;
+  }
+
+  const files = [];
+  const collectFiles = (directory) => {
+    for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
+      const entryPath = path.join(directory, entry.name);
+      if (entry.isDirectory()) {
+        collectFiles(entryPath);
+      } else {
+        files.push(path.relative(root, entryPath));
+      }
+    }
+  };
+
+  collectFiles(path.join(root, relPath));
+  return files.length > 0 && files.every((file) => allowedFiles.includes(file));
+};
+
 const failures = [];
 
 const packageJson = JSON.parse(read("package.json"));
@@ -65,8 +86,9 @@ if (/gem 'al_math',\s*:git =>/.test(gemfile)) {
   failures.push("`Gemfile` must not use git-branch pin for `al_math`; use released gem version.");
 }
 
+const allowedLocalOverrideFiles = ["_includes/hook/bib.liquid"];
 for (const forbiddenPath of ["_includes", "_layouts", "_sass", "_scripts", "assets/tailwind", "tailwind.config.js", "assets/webfonts"]) {
-  if (exists(forbiddenPath)) {
+  if (exists(forbiddenPath) && !containsOnlyAllowedFiles(forbiddenPath, allowedLocalOverrideFiles)) {
     failures.push(`Starter must not own core component path \`${forbiddenPath}\`; move ownership to the corresponding gem.`);
   }
 }
