@@ -100,6 +100,11 @@ search_enabled: true
 socials_in_search: true
 posts_in_search: true
 bib_search: true
+bib_publication_types:
+  - id: article
+    label: Articles
+  - id: report
+    label: Reports
 
 # Dimensions
 max_width: 930px
@@ -407,6 +412,7 @@ filtered_bibtex_keywords:
     pmid,
     poster,
     preview,
+    publication_type,
     selected,
     slides,
     supp,
